@@ -1,1 +1,0 @@
-# qmacro_2ndhalf
